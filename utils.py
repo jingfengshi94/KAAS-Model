@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-# @Author: lapis-hong
-# @Date  : 2018/8/6
+# @Author: FS-J
 """This module contains some model utility functions."""
 import codecs
 
